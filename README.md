@@ -1,3 +1,8 @@
+Amazon EC2 t2 machine is used for this where we have created 2 node and 1 as ansible server total 3 EC2 instances.
+
+thank you
+contact: forkumargaurav@gmail.com
+
 # The chef-repo
 
 All installations require a central workspace known as the chef-repo. This is a place where primitive objects--cookbooks, roles, environments, data bags, and chef-repo configuration files--are stored and managed.
